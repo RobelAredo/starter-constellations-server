@@ -97,6 +97,13 @@
       "meaning": "Sails",
       "starsWithPlanets": 7,
       "quadrant": "SQ2"
+    },
+    {
+      "name": "Leon",
+      "meaning": "Lio",
+      "starsWithPlanets": 29,
+      "quadrant": "SQ2",
+      "id": "KnP3stI"
     }
   ]
 }

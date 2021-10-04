@@ -1,0 +1,35 @@
+
+// const heroPowers = Object.values(hero.powerstats);
+// const villianPowers = Object.values(villian.powerstats);
+// const heroVictories = heroPowers.reduce((versus, x, i) => {
+//     if (heroPowers[i]-villianPowers[i] > 0) {
+//         versus++;
+//     } else if (heroPowers[i]-villianPowers[i] < 0) {
+//         versus--;
+//     }
+//     return versus;
+// }, 0);
+
+// return heroVictories;
+
+
+// const leo = {
+//     name: "Leon",
+//     meaning: "Lio",
+//     starsWithPlanets: 29,
+//     quadrant: "SQ2",
+//   };
+
+// axios
+//     .get(url)
+//     .then(({data}) => {
+//         console.log(data)
+//         return axios.post(url, leo)})
+//     .then(({data}) => {
+//         console.log(data)c
+//         return axios.get(url)})
+//     .then(({data}) => console.log(data))
+
+//     .catch((error) => {
+//         console.log(error.message);
+//     });
